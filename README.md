@@ -1,6 +1,6 @@
 # DigitsRecognition
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+Angular app that loads a Keras model to predict digits drawn on the web app canvas.
 
 ## Development server
 
